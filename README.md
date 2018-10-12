@@ -2,10 +2,11 @@
 
 ## Pre requirements
 - Python 3
+- pip (Python package manager)
 
 ## Installation
 - Clone project
-- Install project dependencies :
+- Install project dependencies (puede ser pip o pip3 según su instalación):
   ```
     cd ml-workshop
     pip install -r requirements.txt
@@ -15,3 +16,4 @@
   ```
     jupyter notebook
   ```
+- Try to run the 3 first rows
