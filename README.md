@@ -6,7 +6,7 @@
 
 ## Installation
 - Clone project
-- Install project dependencies (puede ser pip o pip3 según su instalación):
+- Install project dependencies (it can be pip or pip3 because of different installations):
   ```
     cd ml-workshop
     pip install -r requirements.txt
